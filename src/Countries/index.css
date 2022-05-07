@@ -1,0 +1,36 @@
+.para {
+  color: white;
+  margin-left: 15px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f1f2f;
+  padding: 10px;
+  margin: 15px;
+  margin-left: 60px;
+  margin-right: 60px;
+  border-radius: 10px;
+  border: 1px solid #334155;
+}
+
+.btn {
+  border: 0;
+  background-color: #3b82f6;
+  color: white;
+  width: 60px;
+  height: 30px;
+  border-radius: 4px;
+}
+
+.btn-off {
+  border: 0;
+  background-color: transparent;
+  color: white;
+  width: 60px;
+  height: 30px;
+  border-radius: 4px;
+}
